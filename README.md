@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-# Date:
+# Date:14/10/14
 # AIM:
 To design a book front cover page using HTML and CSS.
 
@@ -29,6 +29,39 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book cover</title>
+    
+    
+        
+</head>
+
+<body background="C:\Users\admin\Desktop\BOOK COVER.png" style="background-repeat: no-repeat;background-attachment: fixed;background-position: center; background-size: contain;">
+
+    <h1 style="font-style: italic ; color: white; text-decoration: wavy;text-align: center;font-family: cursive;font-weight: bolder; font-size: 50px; "> Spectrum </h1>
+    <h3 style="font-style: italic ; color: white ; font-size: 60px; text-decoration: wavy;text-align: center;font-family: cursive;"> Web Application</h3>
+    
+    
+    
+    
+        
+    <img src="C:\Users\admin\Desktop\types-of-web-application.png" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+    <h4 style="font-size: medium;font-family: serif ;color: bisque; text-align: center;font-size: 30px;"> Experience the joy of creating a web page</h4>
+     
+    <h6 style="font-family: fantasy;color: orange;text-align: center;font-weight: lighter; font-size: 40px;">Author: Arihant</h6>
+    
+    
+    
+</body>
+</html>
+```
 # OUTPUT:
+![bC](https://github.com/user-attachments/assets/958a1c74-3bd3-4544-90b7-14b07de80b86)
+
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
